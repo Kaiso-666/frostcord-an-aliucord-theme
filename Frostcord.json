@@ -12,9 +12,13 @@
     "simple_colors": {
         "background": 406010180,
         "background_secondary": 393775016,
-        "statusbar": 388464333
+        "statusbar": 388464333,
+        "accent": -9992763
     },
-    "colors": {},
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -3643545,
+        "status_red_500": -3643545
+    },
     "drawable_tints": {},
     "raws": {}
 }
