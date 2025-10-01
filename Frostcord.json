@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "author": "quackity_quack.py",
+        "name": "Frostcord",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/Kaiso-666\/frostcord-an-aliucord-theme\/refs\/heads\/main\/bgimage.jpg",
+        "blur_radius": 10
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 406010180,
+        "background_secondary": 393775016,
+        "statusbar": 388464333
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
