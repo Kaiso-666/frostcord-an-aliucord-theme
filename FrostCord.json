@@ -1,11 +1,15 @@
 {
     "manifest": {
-        "author": "Frostware Community",
+        "author": "quackity_quack.py",
         "name": "Frostcord",
         "version": "1.0.0"
     },
-    "background":
-        "url": "https://raw.githubusercontent.com/Kaiso-666/frostcord-an-aliucord-theme/refs/heads/main/bgimage.jpg"
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/Kaiso-666\/frostcord-an-aliucord-theme\/refs\/heads\/main\/bgimage.jpg"
     },
-    "fonts": {}
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
 }
